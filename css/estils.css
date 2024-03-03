@@ -1,14 +1,79 @@
-.dual {
-    background-color: rgb(31, 103, 231);
-    color: white;
+.fondo {
+   background-color: rgb(58, 56, 59);
+   color: white;
 }
-.dual80{
-    background-color: rgb(31, 103, 231);
-    color: white;
-    opacity: 0.8;
+
+
+.fondo1 {
+   background-color: rgb(138, 31, 231);
+   color: white;
 }
-.dual60{
-    background-color: rgb(31, 103, 231);
-    color: white;
-    opacity: 0.6;
+.fondo2{
+   background-color: rgb(138, 31, 231);
+   color: white;
+   opacity: 0.8;
 }
+.fondo3{
+   background-color: rgb(138, 31 ,231);
+   color: white;
+   opacity: 0.6;
+}
+.titulo {
+   text-align: center;
+   margin-top: 50px;
+   font-family: "Audiowide", sans-serif;
+   font-size: 50px;
+ }
+
+
+ ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #e226cf;
+ }
+  li {
+   float: left;
+ }
+  li a {
+   display: block;
+   color: rgb(246, 245, 246);
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+ }
+  li a:hover:not(.active) {
+   background-color: #111;
+ }
+  .active {
+   background-color: #e226cf;;
+ }
+ .rosa {
+   background-color: #e226cf;;
+ }
+ .rosaoscuro {
+   background-color: #b31ca4;;
+ }
+
+ .banner {
+   text-align: left;
+   margin-left: 12px;
+   margin-right: 12px;
+ }
+.entradasone {
+ margin-left: 350px;
+ margin-top: 25px;
+}
+.entradastwo {
+ margin-left: 350px;
+ margin-top: 25px;
+}
+.entradasthree {
+margin-left: 350px;
+margin-top: 25px;
+}
+.card{
+ background-image: linear-gradient(white, pink, grey);
+}
+
